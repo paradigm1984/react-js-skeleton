@@ -1,8 +1,8 @@
 # Minimal React JS skeleton
 
-## Minimal React JS boilerplate code as an alternative to Create-react-app.
+Minimal React JS boilerplate code as an alternative to Create-react-app.
 
-## Set up with Webpack and Babel. Also contains appropriate loaders for images.
+Set up with Webpack and Babel. Also contains appropriate loaders for images.
 
 
 ## NPM Packages used:
@@ -29,7 +29,7 @@
 
 
 ## Usage
-### Clone the repo to your local machine.
-### cd into the main directory.
-### Download necessary dependencies.
-### Run "nodemon Server.js" in one terminal tab and "webpack --watch" in a second.
+Clone the repo to your local machine.
+cd into the main directory.
+Download necessary dependencies.
+Run "nodemon Server.js" in one terminal tab and "webpack --watch" in a second.
