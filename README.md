@@ -23,7 +23,7 @@
 
 
 ### Initial layout. Like I said, bare bones. :D
-![alt text](screenshots/layout.png)
+![alt text](screenshots/layout-sm.png)
 ### Basic file structure
 ![alt text](screenshots/file-structure.png)
 
