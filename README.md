@@ -24,11 +24,11 @@
 
 #### Initial layout. Like I said, bare bones. :D
 
-![alt text](screenshots/layout "layout")
+![alt text](screenshots/layout.png)
 
 #### Basic file structure
 
-![alt text](screenshots/file-structure "file structure")
+![alt text](screenshots/file-structure.png)
 
 ### Usage
 
