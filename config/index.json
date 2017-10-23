@@ -1,0 +1,4 @@
+{
+  "dbUri": "mongodb://localhost/noterDB",
+  "jwtSecret": "Hello World!"
+}
