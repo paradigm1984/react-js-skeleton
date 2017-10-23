@@ -25,7 +25,7 @@ Set up with Webpack and Babel. Also contains appropriate loaders for images.
 ### The layout. Like I said, bare bones. :D
 ![alt text](screenshots/layout-sm.png)
 ### Basic file structure
-![alt text](screenshots/structure.png)
+![alt text](screenshots/file-structure.png)
 
 
 ## Usage
